@@ -103,12 +103,14 @@ main {
 }
 
 .portfolio img {
-  border-radius: 10px;
+  border-radius: 3rem;
 }
 
 .portfolio h2 {
   font-weight: normal;
   margin-bottom: 1rem;
+  margin-top: 1rem;
+  text-align: center;
 }
 
 .copyright {
