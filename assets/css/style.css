@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
 }
+body{
+    width: 100%
+}
 
 img {
   display: block;
@@ -9,7 +12,7 @@ img {
 }
 
 p {
-    text-align: justify; 
+    text-align: center; 
 }
 
 li {
@@ -46,11 +49,12 @@ main {
 
 .box {
   background: #eee;
-  padding: 4rem;
+  padding: 1rem;
+
   box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
   border-radius: 50px;
   text-align: center;
-  margin-top: 3rem;
+  margin: 2rem 1rem;
 }
 
 .profile-pic {
@@ -111,7 +115,7 @@ main {
   font-size: 20px;
   color: rgb(228, 228, 228);
   text-shadow: 2px 2px 16px black;
-  margin: 5vh 0vh;
+  padding-bottom: 1vh;
 }
 
 
