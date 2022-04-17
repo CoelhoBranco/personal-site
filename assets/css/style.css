@@ -35,7 +35,7 @@ main {
   /*background: url("../img/bg2.avif") no-repeat top center;
   /*background-attachment: fixed;*/
   /*background-size: cover;*/
-  display: grid;
+  /*display: grid;*/
   align-items: center;
   justify-items: center;
   /*height: 100vh;
@@ -152,6 +152,10 @@ main {
     list-style: none;
   }
   
+  p{
+      text-align: left;
+  }
+
   body {
     font-family: "Source Code Pro", monospace;
     background: url("../img/bg2.avif") no-repeat top center;
